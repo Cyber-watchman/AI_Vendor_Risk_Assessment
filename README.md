@@ -147,7 +147,7 @@ Cybersecurity | GRC | ISO 27001 | Third-Party Risk Management | AI Governance
 
 LinkedIn: https://www.linkedin.com/in/chrisdaniel2004
 
-GitHub: https://github.com/YOUR-USERNAME/healthcare-ai-vendor-risk-assessment-framework
+GitHub: https://github.com/Cyber-watchman
 
 ---
 
